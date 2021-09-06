@@ -75,15 +75,13 @@
 - id: more_publications
   translation: Més publicacions
 - id: contact_name
-  translation: Nom
+  translation: Name
 - id: contact_email
   translation: Email
 - id: contact_message
-  translation: Missatge
-- id: contact_attachment
-  translation: Adjunt  
+  translation: Message
 - id: contact_send
-  translation: Enviar
+  translation: Send
 - id: book_appointment
   translation: Book an appointment
 - id: abstract

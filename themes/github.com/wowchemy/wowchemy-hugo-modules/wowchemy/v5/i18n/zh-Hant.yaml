@@ -7,9 +7,9 @@
 - id: back_to_top
   translation: 回到頂端
 - id: home
-  translation: 主頁
+  translation: Home
 - id: close
-  translation: 關閉
+  translation: Close
 - id: languages
   translation: 語言
 - id: related
@@ -25,13 +25,13 @@
 - id: edit_page
   translation: 編輯本業
 - id: theme_selector
-  translation: 顯示選項
+  translation: Display preferences
 - id: theme_light
-  translation: 明亮
+  translation: Light
 - id: theme_dark
-  translation: 暗黑
+  translation: Dark
 - id: theme_auto
-  translation: 自動
+  translation: Automatic
 - id: btn_preprint
   translation: 影印預覽
 - id: btn_pdf
@@ -39,7 +39,7 @@
 - id: btn_cite
   translation: 引用
 - id: btn_slides
-  translation: 投影片
+  translation: 顯示 Slides
 - id: btn_video
   translation: 影片
 - id: btn_code
@@ -67,17 +67,17 @@
 - id: present
   translation: 現在
 - id: more_pages
-  translation: 查看更多
+  translation: 查看全部
 - id: more_posts
-  translation: 查看更多文章
+  translation: 查看全部文章
 - id: more_talks
-  translation: 查看更多演講
+  translation: 查看全部演講
 - id: more_publications
-  translation: 查看更多出版物
+  translation: 查看全部出版物
 - id: contact_name
   translation: 姓名
 - id: contact_email
-  translation: 郵箱
+  translation: 信箱
 - id: contact_message
   translation: 訊息
 - id: contact_send
@@ -127,9 +127,9 @@
 - id: projects
   translation: 專案
 - id: slides
-  translation: 投影片
+  translation: Slides
 - id: authors
-  translation: 作者
+  translation: Authors
 - id: search
   translation: 搜尋
 - id: search_placeholder
@@ -151,4 +151,4 @@
 - id: cookie_learn
   translation: 了解更多
 - id: published_with
-  translation: 由{wowchemy}支持發布——免費{repo_link}開源{/repo_link}網站，為創作者賦能。
+  translation: 由{wowchemy}支持發布——免费{repo_link}開源{/repo_link}網站，為創作者賦能。
