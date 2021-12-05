@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Master&#39;s Thesis | Muhammet Özkaraca</title>
+    <link>https://muhammetozkaraca.netlify.app/master-thesis/</link>
+      <atom:link href="https://muhammetozkaraca.netlify.app/master-thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Master&#39;s Thesis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muhammetozkaraca.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Master&#39;s Thesis</title>
+      <link>https://muhammetozkaraca.netlify.app/master-thesis/</link>
+    </image>
+    
+    <item>
+      <title>Secularism as an Antidote to Religious Terrorism: The Case of Turkey</title>
+      <link>https://muhammetozkaraca.netlify.app/master-thesis/master-thesis/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://muhammetozkaraca.netlify.app/master-thesis/master-thesis/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The emergence of the Islamic State and Salafi extremist organizations has resulted in an increase in religious terrorism around the world. While contemporary attacks appear to be exclusive to the Middle East and connected with a particular religious understanding, the Salafi-Extremist interpretation of Islam, the origins of religious terrorism reach far back and are related with a number of theological judgments. In this regard, this study provides a novel approach on the origins of religious terrorism and how to combat it. It argues that constitutionally recognized secular principles are vital for preventing religious terror organizations by ensuring religious groups’ freedom to practice their own way of life. This is based on the hypothesis that religious organizations no longer need to resort to violence to maintain or practice their beliefs as the breeding ground for potential extremist groups is stifled by this way. To test this claim, a cross-country study using negative binomial regression is conducted. After adjusting the impact of secularism with several controlling variables, the statistical findings partially corroborate the initial assumption. Following this, an in-depth case study of Turkey sheds light on how constitutionally recognized secular principles avert religious extremism. Thus, this study contributes to the existing literature by demonstrating the clear advantage that secular democracies retain in the face of religious terrorism.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
